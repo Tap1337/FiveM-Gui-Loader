@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ImGUI">
+      <UniqueIdentifier>{e6ee5e8d-4d4a-400b-a0df-8cf173e60aa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI">
+      <UniqueIdentifier>{96e51ace-2e46-4c80-8c70-a3f77137becd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI\pages">
+      <UniqueIdentifier>{234a5adf-bb24-46c6-a837-0678bc131b35}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\ImGUI\imconfig.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGUI\imgui.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGUI\imgui_internal.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGUI\imstb_rectpack.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGUI\imstb_textedit.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\ImGUI\imstb_truetype.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Backend\imgui_impl_win32.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Backend\imgui_impl_dx9.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\font.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\gui.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\imgui_tricks.hpp">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\Main.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\image.hpp">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\pages\home.hpp">
+      <Filter>GUI\pages</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\pages\login.hpp">
+      <Filter>GUI\pages</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\pages\injecting.hpp">
+      <Filter>GUI\pages</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\blur.hpp">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\blur_x.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\blur_y.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\pages\loading.hpp">
+      <Filter>GUI\pages</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\ImGUI\imgui.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGUI\imgui_demo.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGUI\imgui_draw.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGUI\imgui_tables.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ImGUI\imgui_widgets.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Backend\imgui_impl_win32.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Backend\imgui_impl_dx9.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI\gui.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI\imgui_tricks.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI\blur.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
