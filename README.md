@@ -19,7 +19,7 @@ Welcome to the FiveM GUI project developed in Visual Studio. This GUI provides a
 3. Save changes and enjoy using FiveM with the enhanced GUI.
 
 ## Preview
-![Image](https://github.com/Tap1337/FiveM-Gui-Loader/github.com/image.png) | ![Image1](https://github.com/Tap1337/FiveM-Gui-Loader/github.com/image1.png)
+![Image](https://raw.githubusercontent.com/Tap1337/FiveM-Gui-Loader/main/github.com/image.png) | ![Image1](https://raw.githubusercontent.com/Tap1337/FiveM-Gui-Loader/main/github.com/image1.png)
 
 ## Contributions
 Contributions are appreciated. Feel free to fork the repository, make improvements, and submit pull requests.
