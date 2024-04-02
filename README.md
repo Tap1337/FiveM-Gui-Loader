@@ -26,4 +26,3 @@ Contributions are appreciated. Feel free to fork the repository, make improvemen
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-Ensure to replace image1.png and image2.png with the appropriate image filenames you want to display side by side.
